@@ -1,0 +1,29 @@
+body {
+    width:375px;
+    background-color:#d6e2f0;
+    text-align:center;
+    }
+
+img {
+    border:solid white;
+    border-width:15px 15px 175px;
+    border-radius:20px;
+    margin: auto;
+    width:280px;
+    align:center;
+    }
+
+.text {
+    position:relative;
+    bottom:180px;
+    left:45px;
+    width:280px;
+    font-size:15px;
+    font-family: 'Outfit', sans-serif;
+    }
+h2 {
+    color:#1f3251;
+    }
+p {
+   color: #7b879d;
+    }
